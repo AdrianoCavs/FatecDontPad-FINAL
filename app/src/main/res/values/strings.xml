@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fatec DontPad</string>
+    <string name="action_settings">Settings</string>
+    <string name="tag_edit_text_hint">Type desired tag here and hit the button</string>
+    <string name="tag" translatable="false">Tag: #</string>
+    <string name="about">About</string>
+    <string name="about_content">App developed as assignment for Mobile Devices Programming class at Fatec Ipiranga. \n\nDevelopers: \n\n• Adriano Carvalho \n• Gianluca Stremote \n• Roberta Gomes \n• Yago Garcez</string>
+    <string name="firebase_error">Problemas when trying to retrieve data from Firebase</string>
+    <string name="tag_empty">The Tag field is empty, please fill it before pressing the button</string>
+    <string name="description_edit_text">Text field to search tag</string>
+    <string name="description_logo">Application logo</string>
+    <string name="description_label_tag">Current tag label</string>
+    <string name="description_content_tag">Text box with content associated with tag</string>
+    <string name="hint_content">Type something</string>
+    <string name="description_fab">Button to perform the search</string>
+</resources>
